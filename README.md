@@ -1,4 +1,4 @@
-A super simple Scoreboard solution for competitions where either time or points are the winning factor.
+A super simple Timer Scoreboard solution for competitions where either time and/or points are winning factors.
 
 Download the files and open stopwatch.html in your browser.
 
